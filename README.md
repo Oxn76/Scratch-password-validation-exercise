@@ -1,4 +1,3 @@
-# Scratch-password-validation-exercise
 # Password Validation — Scratch Project
 
 ## 1. Project Overview
